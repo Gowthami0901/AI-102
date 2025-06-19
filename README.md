@@ -18,7 +18,7 @@
   * [Microsoft Learn AI-102 Learning Path (Free)](https://learn.microsoft.com/en-us/training/paths/create-no-code-predictive-models-azure-machine-learning/)
 
 
-### Computer Vision Solutions**
+### **Computer Vision Solutions**
 
 * **Topics:**
 
