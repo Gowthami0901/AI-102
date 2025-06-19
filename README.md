@@ -5,6 +5,7 @@
 * **Understand the AI-102 exam structure**
 
   * Visit [Microsoft AI-102 Exam Skills Outline](https://learn.microsoft.com/en-us/certifications/exams/ai-102/)
+    
 * **Topics:**
 
   * Introduction to Azure AI services
