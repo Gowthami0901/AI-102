@@ -44,7 +44,6 @@
 * **Resources:**
 
   * [Microsoft Learn - NLP](https://learn.microsoft.com/en-us/training/modules/analyze-text-azure-cognitive-services/)
-  * [Udemy - AI-102 Exam Prep (Ankit Mistry)](https://www.udemy.com/course/ai-102-microsoft-azure-ai-engineer-associate-exam-guide/)
 
 ---
 
@@ -84,11 +83,6 @@
   * Azure OpenAI (GPT models, Prompt Engineering, RAG)
   * Build secure, scalable AI solutions
   * Review key topics + take practice tests
-    
-* **Practice Tests:**
-
-  * [Udemy Practice Test by Nahid Perween (Highly Rated)](https://www.udemy.com/course/ai-102-practice-tests/)
-  * [MeasureUp AI-102 Practice Test](https://www.measureup.com/Microsoft-AI-102-Designing-and-Implementing-a-Microsoft-Azure-AI-Solution-P3057.aspx)
     
 * **Final Prep:**
 
