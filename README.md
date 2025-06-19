@@ -1,6 +1,7 @@
 ## AI-102 Certification Preparation Agenda
 
-### **Week 1: Exam Overview & Responsible AI**
+### **Week 1**
+### **Exam Overview & Responsible AI**
 
 * **Understand the AI-102 exam structure**
 
@@ -16,9 +17,8 @@
   * [Microsoft Learn - Responsible AI](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/responsible-ai)
   * [Microsoft Learn AI-102 Learning Path (Free)](https://learn.microsoft.com/en-us/training/paths/create-no-code-predictive-models-azure-machine-learning/)
 
----
 
-### **Week 2: Computer Vision Solutions**
+### Computer Vision Solutions**
 
 * **Topics:**
 
@@ -33,7 +33,7 @@
 
 ---
 
-### **Week 3: Natural Language Processing (NLP)**
+### **Week 2: Natural Language Processing (NLP)**
 
 * **Topics:**
 
@@ -48,7 +48,7 @@
 
 ---
 
-### **Week 4: Conversational AI & Bot Services**
+### **Week 3: Conversational AI & Bot Services**
 
 * **Topics:**
 
@@ -63,7 +63,7 @@
 
 ---
 
-### **Week 5: Knowledge Mining & Document Intelligence**
+### **Week 4: Knowledge Mining & Document Intelligence**
 
 * **Topics:**
 
@@ -77,17 +77,19 @@
 
 ---
 
-### **Week 6: Generative AI, Review & Practice Tests**
+### **Week 5: Generative AI, Review & Practice Tests**
 
 * **Topics:**
 
   * Azure OpenAI (GPT models, Prompt Engineering, RAG)
   * Build secure, scalable AI solutions
   * Review key topics + take practice tests
+    
 * **Practice Tests:**
 
   * [Udemy Practice Test by Nahid Perween (Highly Rated)](https://www.udemy.com/course/ai-102-practice-tests/)
   * [MeasureUp AI-102 Practice Test](https://www.measureup.com/Microsoft-AI-102-Designing-and-Implementing-a-Microsoft-Azure-AI-Solution-P3057.aspx)
+    
 * **Final Prep:**
 
   * Take mock exam under timed conditions
